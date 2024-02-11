@@ -21,7 +21,6 @@
       </fileDesc>
    </teiHeader>
    <text>
-<!--
       <front>
          <div type="toc">
             <head>Table of Contents</head>
@@ -34,7 +33,6 @@
             </list>
          </div>  
       </front>
- -->
       <body>
          <head>Pygmalion by George Bernard Shaw</head>
 
