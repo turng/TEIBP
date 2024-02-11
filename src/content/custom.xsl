@@ -16,6 +16,9 @@
          variables, and parameters from teibp.xsl 
          to be overridden here. -->
     <xsl:import href="teibp.xsl"/>
-    
+
+    <xsl:template match="item[@corresp]">
+        <a href="{@corrspd}"><apply-templates/></a>
+    </xsl:template>
 
 </xsl:stylesheet>
